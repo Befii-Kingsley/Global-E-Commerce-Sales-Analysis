@@ -30,8 +30,8 @@ This dashboard helps stakeholders achieve the following:
 
 ## Process
 This project was built using:
-1. Data Storage: PostgreSQL database (global_orders table) with e-commerce transaction data
-2. Data Analysis: SQL queries (see global_ecommerce_sales_analysis.sql)
+1. Data Storage: PostgreSQL database (online_store_sales) with e-commerce transaction data
+2. Data Analysis: SQL queries with postgresql
 3. Visualization: Google Looker Studio interactive dashboard
 4. Approach: Descriptive & diagnostic analytics
 
